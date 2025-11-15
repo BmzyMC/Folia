@@ -81,7 +81,7 @@
 ### 获取插件
 所有适配版本均在 **GitHub Releases** 提供下载：
 ```
-https://github.com/BmzyMC/{插件名称}/releases
+https://github.com/BmzyMC/Folia/releases
 ```
 
 ### 技术支持
