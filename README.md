@@ -1,5 +1,9 @@
 # BmzyMC - Minecraft 插件 Folia 支持指南
 
+
+### 在Releases里自取
+
+
 ## 🏢 团队介绍
 
 **BmzyMC** 是一个专注于 Minecraft 服务端开发的团队，致力于为社区提供高性能、稳定可靠的插件解决方案。本指南规范团队所有成员在将插件适配 Folia 时的开发流程和标准。
