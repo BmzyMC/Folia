@@ -78,10 +78,26 @@
 
 ## 📥 下载与支持
 
-### 获取插件
-所有适配版本均在 **GitHub Releases** 提供下载：
-```
-https://github.com/BmzyMC/Folia/releases
+我已经为您将提供的GitHub `blob` 视图链接替换为可以直接下载的链接。以下是更新后的插件下载列表，您现在可以直接点击链接下载JAR文件，或者使用提供的“中国区专用”加速链接。
+
+| 插件名称 | 版本 | 直接下载链接 | 中国区专用加速链接 |
+| :--- | :--- | :--- | :--- |
+| **AntiCheatObfuscator** | `1.4.5-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/AntiCheatObfuscator-1.4.5-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/AntiCheatObfuscator-1.4.5-folia.jar) |
+| **EssentialsX-source** | `2.21.2-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/EssentialsX-source-2.21.2-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/EssentialsX-source-2.21.2-folia.jar) |
+| **GeyserSkinManager** | `1.8-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/GeyserSkinManager-1.8-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/GeyserSkinManager-1.8-folia.jar) |
+| **LuckPerms** | `5.5.20-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/LuckPerms-5.5.20-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/LuckPerms-5.5.20-folia.jar) |
+| **TabTPS** | `1.3.29-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/TabTPS-1.3.29-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/TabTPS-1.3.29-folia.jar) |
+| **Vault** | `1.7.3-b131-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/Vault-1.7.3-b131-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/Vault-1.7.3-b131-folia.jar) |
+| **WorldEdit** | `7.3.17-beta-01-folia` | [点此下载](https://github.com/BmzyMC/Folia/raw/main/WorldEdit-7.3.17-beta-01-folia.jar) | [点此加速下载](https://gh-proxy.com/https://github.com/BmzyMC/Folia/raw/main/WorldEdit-7.3.17-beta-01-folia.jar) |
+
+### 🔧 插件安装指南
+
+下载插件后，您可以参考以下步骤将它们安装到您的服务器：
+1.  **确保环境**：确认您的服务器是 **Folia** 服务端，并已安装所需版本的Java。
+2.  **放置插件**：将下载好的 `.jar` 文件放入服务器的 `plugins` 文件夹内。
+3.  **重启服务器**：启动或重启您的服务器，插件会自动加载并生成配置文件。
+4.  **进行配置**：根据需要，调整位于 `plugins/对应插件名称/` 目录下的配置文件。
+
 ```
 
 ### 技术支持
